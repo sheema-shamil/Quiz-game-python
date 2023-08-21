@@ -4,3 +4,4 @@ This is a Quiz Game project developed in Python. The game is designed to test th
 The Quiz Game has a user-friendly interface, which makes it easy to play. The game consists of a series of questions, and the player has to give the right answer to each question.
 
 ## Features
+* indicates when the answers is incorrect.
