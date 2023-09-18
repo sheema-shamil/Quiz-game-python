@@ -5,3 +5,7 @@ The Quiz Game has a user-friendly interface, which makes it easy to play. The ga
 
 ## Features
 * indicates when the answers is incorrect.
+
+## Installation
+To run this program 
+``
