@@ -13,3 +13,6 @@ To run this program use
 
 ## Author
  Sheema Shamil
+
+ ## License
+ The project is licensed under MIT.
