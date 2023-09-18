@@ -12,4 +12,4 @@ To run this program use
 `python Quiz_game.py`
 
 ## Author
- *Sheema Shamil
+ Sheema Shamil
