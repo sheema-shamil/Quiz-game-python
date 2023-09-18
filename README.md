@@ -8,4 +8,5 @@ The Quiz Game has a user-friendly interface, which makes it easy to play. The ga
 
 ## Installation
 To run this program use 
+
 `python Quiz_game.py`
