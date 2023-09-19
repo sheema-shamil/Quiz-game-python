@@ -7,7 +7,9 @@ The Quiz Game has a user-friendly interface, which makes it easy to play. The ga
 * indicates when the answers is incorrect.
 
 ## Installation
-To run this program use 
+To run this program 
+
+Go to your terminal and run
 
 `python Quiz_game.py`
 
